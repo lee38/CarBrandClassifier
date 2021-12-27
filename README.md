@@ -6,3 +6,5 @@ Data was adapted from the following Kaggle links:
 - Classes in dataset organized into separate folders: https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder
 
 - Classes in dataset organized into separate folders, and each image cropped around its bounding-box: https://www.kaggle.com/sungtheillest/vehicledetected-stanford-cars-data-classes-folder
+
+Group Members: Branden Shin, Khoi Ngo, Andrew Lee, Brandon Low-On
