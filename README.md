@@ -1,6 +1,4 @@
-# ENEL645_Group14
-ENEL 645 Final Project group 14
-
+# Deep Learning Group Project
 Data was adapted from the following Kaggle links:
 
 - Raw dataset developed and released by Stanford: https://www.kaggle.com/jessicali9530/stanford-cars-dataset
