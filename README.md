@@ -44,3 +44,4 @@ Used convolutional neural networks (CNNs) to classify car images from the Stanfo
 
 - Classes in dataset organized into separate folders, and each image cropped around its bounding-box: https://www.kaggle.com/sungtheillest/vehicledetected-stanford-cars-data-classes-folder
 
+Group Members: Branden Shin, Khoi Ngo, Andrew Lee, Brandon Low-On
