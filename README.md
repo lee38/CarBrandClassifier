@@ -6,7 +6,7 @@ Used convolutional neural networks (CNNs) to classify car images from the Stanfo
 - Normalize image sizes to 224x224
 - Min-Max scaling
 - Data Augmentation (rotations, zooms, flips, shifts, etc.)
-- Cropped image to minimize backgoround noise in samples
+- Cropped image to minimize background noise in samples
 
 ## CNN Models:
 ### 1. CNN control model: 
